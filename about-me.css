@@ -1,0 +1,14 @@
+.article-featured{
+    border: none;
+}
+.article-recent-main{
+    margin: 20px 0;
+}
+
+@media all and (min-width:675px){
+.sidebar img{
+    width: 150px;
+    height: 100px;
+    object-fit: cover;
+}
+}
